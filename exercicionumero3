@@ -1,0 +1,5 @@
+print("Me informe dois valores")
+valor1 = float(input("Me informe o primeiro valor: "))
+valor2 = float(input("Informe o segundo valor: "))
+print(f"o primeiro valor é {valor2} e o segundo valor é {valor1}")
+print("Hahahaha Trolei")

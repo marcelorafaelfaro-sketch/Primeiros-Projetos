@@ -1,0 +1,1 @@
+lado_quadrado = float(input())
