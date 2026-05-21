@@ -10,3 +10,4 @@ print("(8)")
 print("(9)")
 print("(0)")
 while True:
+    opcao = int(input)
