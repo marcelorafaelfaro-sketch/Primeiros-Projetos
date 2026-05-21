@@ -1,0 +1,12 @@
+print("Olá, sou uma calculadora")
+print("(1)SOMA")
+print("(2)SUBTRAÇÃO")
+print("(3)MULTIPLICAÇÃO")
+print("(4)")
+print("(5)")
+print("(6)")
+print("(7)")
+print("(8)")
+print("(9)")
+print("(0)")
+while True:
