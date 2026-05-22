@@ -4,3 +4,4 @@ while (numero <=100):
     numero += 2
 print("O laço foi encerrado")
 print("VALEU TMJ")
+#TESTE
