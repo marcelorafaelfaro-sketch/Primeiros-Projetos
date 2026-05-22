@@ -1,7 +1,4 @@
-numero = int(input("fala um numero que eu vou contar a partir desse numero ate 100: "))
-while (numero <=100):
+numero = 1
+while (numero <=10):
     print(numero)
-    numero += 2
-print("O laço foi encerrado")
-print("VALEU TMJ")
-#TESTE
+    numero += 1
